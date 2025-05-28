@@ -1,0 +1,1 @@
+esse jogo foi desenvolvido no programa p5js, para o agrinho, e tambem para voce se divertir, o jogo funciona com uma bola no espaço, aonde vai caindo alguns peixes, e voce tem que pegar eles, para garantir pontos, caso um asteroide bata em voce, voce é eliminado, e o jogo recomeça.
