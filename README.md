@@ -1,1 +1,1 @@
-esse jogo foi desenvolvido no programa p5js, para o agrinho, e tambem para voce se divertir, o jogo funciona com uma bola no espaço, aonde vai caindo alguns peixes, e voce tem que pegar eles, para garantir pontos, caso um asteroide bata em voce, voce é eliminado, e o jogo recomeça.
+projeto do agrinho, aonde você colhe plantações e vai caindo pragas, de acordo com o tanto de plantações colhida, as pragas aumentam e ficam mais rapidas, e com isso você deve continuar colhendo cada vez mais.
